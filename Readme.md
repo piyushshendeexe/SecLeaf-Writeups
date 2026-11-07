@@ -11,107 +11,59 @@
 
 **SecLeaf Q4 CTF 2026** was a cybersecurity competition featuring challenges across multiple domains, including Web Security, Reverse Engineering, Cryptography, Digital Forensics, Network Security, Hardware, and more.
 
-Participated in the competition as a member of **HACKBYTES**, securing **50th position** on the leaderboard.
+Participated as a member of **HACKBYTES**, securing **50th position** on the global leaderboard.
 
-This repository contains **18 challenge writeups** documenting our approaches, analysis, tools, techniques, and solutions throughout the competition.
+This repository documents **18 solved challenges**, covering our approaches, analysis, tools, techniques, and solutions.
 
 ## Competition Overview
 
 | Detail | Information |
 |---|---|
 | Competition | SecLeaf Q4 CTF 2026 |
-| Team Name | HACKBYTES |
+| Team | HACKBYTES |
 | Global Rank | 50th |
-| Total Writeups | 18 |
-| Competition Status | Completed |
+| Total Solved Challenges | 18 |
+| Status | Completed |
 
-## Challenge Writeups
-
-Explore the challenge walkthroughs below. Click on any challenge to access its writeup.
-
-```text
-SecLeaf-Q4-CTF-2026/
-│
-├── 🌐 Web Security/
-│   ├── Slow Leak
-│   └── Water Hammer
-│
-├── 🔧 Hardware/
-│   └── Night Shift Keying
-│
-├── 🔍 Reverse Engineering/
-│   ├── Sugar Glass
-│   ├── Dead Letter Office
-│   ├── Null Choir
-│   └── Blackout Protocol
-│
-├── 🔐 Cryptography/
-│   ├── Hensel Garden
-│   ├── Nonce Nursery
-│   ├── Third-Order Forest
-│   └── Eightfold Funeral: Epitaph
-│
-├── 🕵️ Digital Forensics/
-│   ├── Reflected Storm
-│   ├── LeafSync
-│   ├── Blackroot Archive
-│   └── Signal & Noise
-│
-├── 🌍 Network Security/
-│   └── Subdomain Smuggling
-│
-├── ⚛️ Quantum Security/
-│   └── NullVector Ransomware
-│
-└── 📁 Miscellaneous/
-    └── Layers
-```
+## Solved Challenges
 
 ### 🌐 Web Security
-
-- [Slow Leak](Web/Slow-Leak.md)
-- [Water Hammer](Web/Water-Hammer.md)
+- Slow Leak
+- Water Hammer
 
 ### 🔧 Hardware
-
-- [Night Shift Keying](Hardware/Night-Shift-Keying.md)
+- Night Shift Keying
 
 ### 🔍 Reverse Engineering
-
-- [Sugar Glass](Reverse/Sugar-Glass.md)
-- [Dead Letter Office](Reverse/Dead-Letter-Office.md)
-- [Null Choir](Reverse/Null-Choir.md)
-- [Blackout Protocol](Reverse/Blackout-Protocol.md)
+- Sugar Glass
+- Dead Letter Office
+- Null Choir
+- Blackout Protocol
 
 ### 🔐 Cryptography
-
-- [Hensel Garden](Crypto/Hensel-Garden.md)
-- [Nonce Nursery](Crypto/Nonce-Nursery.md)
-- [Third-Order Forest](Crypto/Third-Order-Forest.md)
-- [Eightfold Funeral: Epitaph](Crypto/Eightfold-Funeral-Epitaph.md)
+- Hensel Garden
+- Nonce Nursery
+- Third-Order Forest
+- Eightfold Funeral: Epitaph
 
 ### 🕵️ Digital Forensics
-
-- [Reflected Storm](Forensics/Reflected-Storm.md)
-- [LeafSync](Forensics/LeafSync.md)
-- [Blackroot Archive](Forensics/Blackroot-Archive.md)
-- [Signal & Noise](Forensics/Signal-and-Noise.md)
+- Reflected Storm
+- LeafSync
+- Blackroot Archive
+- Signal & Noise
 
 ### 🌍 Network Security
-
-- [Subdomain Smuggling](Network/Subdomain-Smuggling.md)
+- Subdomain Smuggling
 
 ### ⚛️ Quantum Security
-
-- [NullVector Ransomware](Quantum/NullVector-Ransomware.md)
+- NullVector Ransomware
 
 ### 📁 Miscellaneous
-
-- [Layers](Misc/Layers.md)
+- Layers
 
 ## Repository Statistics
 
-| Domain | Writeups |
+| Domain | Solved Challenges |
 |---|---:|
 | Web Security | 2 |
 | Hardware | 1 |
@@ -125,36 +77,19 @@ SecLeaf-Q4-CTF-2026/
 
 ## Tools & Techniques
 
-The writeups cover different investigation and problem-solving techniques, including:
-
 - Python scripting and automation
 - Linux command-line utilities
 - Binary analysis and reverse engineering
 - Cryptographic analysis
 - Packet analysis and network investigation
-- Digital forensic investigation
+- Digital forensics
 - Web application security testing
-
-## Repository Structure
-
-```text
-SecLeaf-Q4-CTF-2026/
-├── README.md
-├── Web/
-├── Hardware/
-├── Reverse/
-├── Crypto/
-├── Forensics/
-├── Network/
-├── Quantum/
-└── Misc/
-```
 
 ## Disclaimer
 
-These writeups are published for educational purposes and knowledge sharing. They document the approaches and techniques used during the competition.
+These writeups are published for educational purposes and knowledge sharing. They document techniques and approaches used during the competition.
 
-Please respect the CTF organizers' rules and avoid using these solutions to compromise systems without authorization.
+Please respect CTF rules and never use these techniques against systems without authorization.
 
 ## Credits
 
@@ -162,7 +97,7 @@ Please respect the CTF organizers' rules and avoid using these solutions to comp
 **Competition:** SecLeaf Q4 CTF 2026  
 **Leaderboard Position:** #50
 
-Thanks to the **SecLeaf team** for organizing the competition and providing an excellent platform to learn, practice, and improve cybersecurity skills.
+Thanks to the **SecLeaf team** for organizing the competition and providing an excellent learning experience.
 
 ---
 
