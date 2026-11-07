@@ -1,4 +1,4 @@
-# CTF Writeup: Web 1 — Main 07 Telemetry
+<img width="1162" height="997" alt="Screenshot 2026-11-07 151223" src="https://github.com/user-attachments/assets/45a50fa2-c000-44cd-bb11-d7ecc3556985" /># CTF Writeup: Web 1 — Main 07 Telemetry
 
 - Challenge: Web 1
 - Target: http://web.secleaf.xyz:8080/
@@ -41,3 +41,4 @@ while len(flag) < 40:
 
 final_flag = "".join(flag[i] for i in sorted(flag.keys()))
 print("\n[✓] Flag:", final_flag)
+<img width="1162" height="997" alt="Screenshot 2026-11-07 151223" src="https://github.com/user-attachments/assets/52610a64-0637-48b4-8126-19107bce3ed0" />
